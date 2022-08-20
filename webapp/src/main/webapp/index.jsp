@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Sreekanth testing  Technologies !!! </h1>
+<h1> Hello, Welcome to Sreekanth Technologies !!! </h1>
 
 
